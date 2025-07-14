@@ -145,3 +145,4 @@ def func_dict(dict_val):
 
 data = func_dict({"name": "raju", "age": 20})
 print(data)
+print("hey hi")
